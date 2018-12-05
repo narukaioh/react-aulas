@@ -14,3 +14,6 @@ https://medium.com/@oieduardorabelo/padr%C3%B5es-em-react-criando-componentes-d3
 
 ### Estruturando projetos e nomeando componentes
 https://medium.com/reactbrasil/react-estruturando-projetos-e-nomeando-componentes-b62ddad69a11
+
+### React Lifecycle Methods - How and When to use them
+https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
