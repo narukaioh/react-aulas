@@ -17,3 +17,6 @@ https://medium.com/reactbrasil/react-estruturando-projetos-e-nomeando-componente
 
 ### React Lifecycle Methods - How and When to use them
 https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+
+### Boas práticas na criação de componentes React
+https://medium.com/reactbrasil/boas-pr%C3%A1ticas-na-cria%C3%A7%C3%A3o-e-separa%C3%A7%C3%A3o-de-responsabilidades-em-componentes-react-8a6921b33b5
