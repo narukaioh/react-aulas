@@ -20,3 +20,6 @@ https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-the
 
 ### Boas práticas na criação de componentes React
 https://medium.com/reactbrasil/boas-pr%C3%A1ticas-na-cria%C3%A7%C3%A3o-e-separa%C3%A7%C3%A3o-de-responsabilidades-em-componentes-react-8a6921b33b5
+
+### The Net Ninja - React Course
+https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
