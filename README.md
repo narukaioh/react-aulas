@@ -23,3 +23,7 @@ https://medium.com/reactbrasil/boas-pr%C3%A1ticas-na-cria%C3%A7%C3%A3o-e-separa%
 
 ### The Net Ninja - React Course
 https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+
+### Medium - Eduardo Rabelo
+https://medium.com/@oieduardorabelo
+
