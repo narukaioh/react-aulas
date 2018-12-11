@@ -27,3 +27,8 @@ https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNw
 ### Medium - Eduardo Rabelo
 https://medium.com/@oieduardorabelo
 
+### 7 dicas que todo desenvolvedor React deveria saber
+https://rafaell-lycan.com/2018/dicas-que-todo-desenvolvedor-react-deveria-saber/
+
+### Presentational and Container Components
+https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
