@@ -32,3 +32,6 @@ https://rafaell-lycan.com/2018/dicas-que-todo-desenvolvedor-react-deveria-saber/
 
 ### Presentational and Container Components
 https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
+### Complete Firebase authentication react tutorial
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
